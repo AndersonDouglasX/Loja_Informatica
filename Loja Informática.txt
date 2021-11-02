@@ -15,7 +15,7 @@ casos de uso
 
 Conceitual
 
--funcionário
--produto
--venda
+-funcionário (CODI_FUNC, NOME_FUNC)
+-produto (CODI_PROD, NOME_PROD, QUANT_PROD, VALOR_PROD)
+-venda (CODI_VENDA,VALOR_VENDA, CODI_PROD, QUANT_PROD, CODI_FUNC)
 
