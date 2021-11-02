@@ -1,0 +1,21 @@
+Um cliente deseja um sistema de uma loja de informática que contenha cadastro do produto, funcionário
+e registro de venda, sendo que havera login para cada usuário acessar o sistema.
+
+atores
+
+- funcionário
+
+casos de uso
+
+- cadastrar
+  - funcionário
+  - produto
+
+- registra venda
+
+Conceitual
+
+-funcionário
+-produto
+-venda
+
